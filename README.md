@@ -1,5 +1,5 @@
 
-# genefuse file
+# prepare genefuse file
 
 step1:Download gene fusion from cosmic (https://cancer.sanger.ac.uk/cosmic/fusion) named(cosmic_genelist.txt) as following:
 
@@ -15,9 +15,7 @@ step3:output file fusion.csv
 
     python3 pre_genefuse.py
 
-step4:run genefuse 
-
-# factera file:
+# prepare factera file:
 
 step1:download hg38.2bit file
 
