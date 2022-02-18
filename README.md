@@ -25,3 +25,14 @@ step2：output exon bed
 
     python3 pre_factera.py
 
+# Software docker
+
+docker pull fanyucai1/dnafusion:latest
+
+Docker file
+
+    FROM conda/miniconda3
+    RUN conda install -c bioconda perl-statistics-descriptive bwa samtools perl-bioperl blast genefuse ucsc-twobittofa
+    RUN mkdir /script/
+    COPY factera.pl /script/
+    COPY make_fusion_genes.py /script/
