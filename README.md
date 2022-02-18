@@ -1,9 +1,11 @@
 
 # genefuse file
 
-step1:Download gene fusion from cosmic named(cosmic_genelist.txt)
+step1:Download gene fusion from cosmic (https://cancer.sanger.ac.uk/cosmic/fusion) named(cosmic_genelist.txt) as following:
 
-    https://cancer.sanger.ac.uk/cosmic/fusion as following:
+    ACBD6_ENST00000367595-RRP15
+    ACSL3-ETV1
+    ACTB-GLI1
 
 step2:Download gtf and genome fasta file from gencode:
 
