@@ -36,3 +36,4 @@ Docker file
     RUN mkdir /script/
     COPY factera.pl /script/
     COPY make_fusion_genes.py /script/
+
