@@ -27,7 +27,7 @@ step2：output exon bed
 
 # Software docker
 
-docker pull fanyucai1/dnafusion:latest
+    docker pull fanyucai1/dnafusion:latest
 
 Docker file
 
