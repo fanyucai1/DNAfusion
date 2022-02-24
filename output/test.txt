@@ -1,0 +1,11 @@
+ChrA	BreakA	OriA	DisA	SplitA	ChrB	BreakB	OriB	DisB	SplitB	Event	GeneA	StrGeneA	GeneB	StrGeneB
+chr2	29225296	0	26	335	chr2	42316375	0	27	284	Inversion	ALK	-	EML4	+
+chr2	29225296	0	26	335	chr2	42316375	0	27	284	Inversion	Compl_ALK	+	Compl_EML4	-
+chr2	29225296	1	93	613	chr2	42316370	1	86	423	Inversion	ALK	-	EML4	+
+chr2	29225296	1	93	613	chr2	42316370	1	86	423	Inversion	Compl_ALK	+	Compl_EML4	-
+chr10	41859894	0	0	3	chr10	41859979	1	0	4	Tandem	Flanking_LOC441666	+	Flanking_LOC441666	+
+chr10	41859894	0	0	3	chr10	41859979	1	0	4	Tandem	Flanking_LOC441666	-	Flanking_LOC441666	-
+chr13	110938204	0	0	121	chr13	110938399	1	0	135	Tandem	Flanking_ANKRD10	+	Flanking_ANKRD10	+
+chr13	110938204	0	0	121	chr13	110938399	1	0	135	Tandem	Flanking_ANKRD10	-	Flanking_ANKRD10	-
+chr5	49659492	0	0	5	chr5	49659597	1	0	3	Tandem	Flanking_EMB	+	Flanking_EMB	+
+chr5	49659492	0	0	5	chr5	49659597	1	0	3	Tandem	Flanking_EMB	-	Flanking_EMB	-

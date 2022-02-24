@@ -26,3 +26,4 @@ step3:output file fusion.csv
 
     test.html
     test_dnafuse.result
+    test.txt
