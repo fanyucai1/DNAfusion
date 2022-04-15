@@ -54,3 +54,8 @@ step4:CosmicFusionExport_V95.tsv
     test.html
     test_dnafuse.result
     test.txt
+
+
+docker run -v /staging2/fanyucai/DNA_fusion/Database/:/Database/ -v /staging2/fanyucai/DNA_fusion/test_factera/:/analysis/ 
+test perl /analysis/factera.pl -o /analysis/ -p 24 /analysis/S3-DNA.bam 
+/Database/factera/exon.bed /Database/factera/GRch38.p13.2bit
